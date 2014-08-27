@@ -1,0 +1,85 @@
+/*.social{*/
+    /*font-size: 10px;*/
+    /*top: 0px;*/
+
+/*}*/
+/*.logo{*/
+
+    /*padding-bottom: 1vw;*/
+/*}*/
+
+
+/*.blue-1 {*/
+    /*background:#45a1d5;*/
+    /*width:100px;*/
+    /*height:200px;*/
+    /*position: fixed;*/
+    /*top: 0;*/
+    /*left: 50%;*/
+    /*margin-left: -200px*/
+/*}*/
+
+/*.blue-2 {*/
+    /*background:#45a1d5;*/
+    /*width:100px;*/
+    /*height:200px;*/
+    /*position: fixed;*/
+    /*top: 0;*/
+    /*left: 50%;*/
+    /*margin-left: 100px*/
+/*}*/
+/*.nav {*/
+    /*left:-100px;*/
+    /*width:100%;*/
+    /*height:118px;*/
+    /*padding:0px;*/
+/*}*/
+
+/*h1 {*/
+    /*font-family: sans-serif;*/
+    /*font-size: 6vw;*/
+
+    /*padding-top: 1vw;*/
+    /*opacity:0.5;*/
+/*}*/
+
+
+/*p{*/
+
+    /*font-size: 4.8vw;*/
+/*}*/
+/*.links{*/
+    /*font-size: 3.6vw;*/
+    /*padding-bottom: 3.4vw;*/
+    /*opacity:0.5;*/
+/*}*/
+/*a {*/
+    /*font-size: 3.6vw;*/
+    /*color:#fff;*/
+    /*opacity:0.7;*/
+/*}*/
+/*body {*/
+    /*top: 0px;*/
+    /*bottom: 0px;*/
+    /*font-family: sans-serif;*/
+    /*color:#fff;*/
+    /*font-size: 80px;*/
+    /*text-align: center;*/
+    /*text-shadow:-1px -1px 0 #000,*/
+                /*1px -1px 0 #000,*/
+                /*-1px 1px 0 #000,*/
+                /*1px 1px 0 #000;*/
+    /*background: url(../img/plains.jpg) no-repeat center center fixed;*/
+    /*-webkit-background-size: cover;*/
+    /*-moz-background-size: cover;*/
+    /*-o-background-size: cover;*/
+    /*background-size: cover;*/
+
+/*}*/
+/*video#bgvid {*/
+/*position: fixed; right: 0; bottom: 0;*/
+/*min-width: 100%; min-height: 100%;*/
+/*width: auto; height: auto; z-index: -100;*/
+/*background: black no-repeat;*/
+/*background-size: cover;*/
+/*}*/

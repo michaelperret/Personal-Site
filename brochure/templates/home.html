@@ -1,0 +1,19 @@
+{% extends 'base.html' %}
+{% load staticfiles %}
+
+{% block links %}
+<div class="links">
+    <a href="../aboutme">about</a>&nbsp;|&nbsp;<a href="{% url "contact" %}">contact</a>
+</div>
+{% endblock links %}
+
+{% block content %}
+    <h1>
+        hi
+        <br>
+        i'm michael
+    </h1>
+
+{#    <img width="256px" src="{% static "img/picture.jpg" %}">#}
+
+{% endblock content %}
